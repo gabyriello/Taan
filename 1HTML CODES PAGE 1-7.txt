@@ -1,0 +1,262 @@
+HTML CODES
+//PAGE 1
+<html>
+<title>index.html</title>
+<body background = "bgbg.gif">
+
+<center>
+<img src="gif.gif" > </img> <br>
+<font size="30" color="blue" > GABY'S Travel Logs </font>
+<br> <font size="6" color="white">  Welcome to GABY'S Travel Logs! <br>We will show you Travel Recommendations that gaby has been to!! <br>So what are you waiting for? Purchase now!! </font>
+<br>
+<br>
+<br>
+
+<font size="5" color="white">Pay the subscription below!!  </font>
+<br>
+<br>
+<br>
+
+<font size="3" color="red"> Subscribe $50 a week </font> <br>
+<font size="3" color="red"> Subscribe $150 a month </font><br>
+<font size="3" color="red"> Subscribe $1500 a year </font><br>
+
+
+<font size="4"> <p align="right"><a href="Travel Ideas page 2.html">Next page...</href> </p> </font>
+
+</html>
+</body>
+
+
+//PAGE 2
+<html>
+<title> aboutme.html </title>
+<body background="bg.jpg">
+<br>
+<br>
+<br>
+<center>
+<font face="lucida handwriting" size="30" color="black"> Travel Recommendations </font>
+<hr width="70%" size="7" width="70"> <br>
+
+
+<img src="catan2.jpg" </img>
+<br>
+
+<font color ="black">
+<h1>Catanduanes </h1>
+<p align="center">Catanduanes is our home province, it is an island that contains a lot of resorts tourists spots and even good food restaurants<br>
+It really has enjoying trip to go into but the only problem is that it is far away from the city, if you travel by plane, it will just take you 1hr and 30 mins <br>
+but if you travel by private vehicle or even a bus, it will take you one day, and included as well when crossing the sea to arrive at the island.<br>
+We have fun in there because we had a lot of relatives that can assist us where we wanted to go, But if you're a just a traveler who wants to visit<br> 
+I recommend having a tourguide and having a reservation to have a planned trip. They had also pure white beaches in there like the twin rock beach resort<br>
+so that you can enjoy it as much as you visit boracay. <p/>
+
+<img src="tanaypage2.jpg" </img>
+<br>
+
+<h2>Tanay.Rizal </h2>
+<p align="center">Tanay in the past years ago, it just a pure province who's just quiet,calm and relaxing to go,nowadays, well it just the same but <br>
+it has a lot of tourists especially motor riders who's in a group together to have chill ride, I think it is because of pandemic that people forced <br>
+to go anywhere because they are already bored at home, and even business-mind people in there really take advantage of it, they construct restaurants, <br>
+good viewing landscape,resorts,falls and even more,it's just like Baguio because it is really cold in there and have relaxing wind that passes through your nose.<br>
+It just takes 1hr to visit tanay so what are you waiting for? reserve and visit now! <p/>
+
+<img src="sbpage2.jpg" </img>
+<br>
+
+<h3>Sea Breeze Resort </h3>
+<p align="center">Seabreeze resort is already a tourist spot even before pandemic, and because of their near-affordable resort here in city, <br>
+they renovate the resort to accomodate more people and guess what?, they build wavepools,private pools, fun pool rides and more!, <br>
+they now have better facilities to cope more tourists as the time passed.It just located here in Taguig, and when you go there, <br>
+the most common tourists are the family reunions, school batch/classmates and more. So visit now whyle there are still few people.<p/>
+
+<img src="ekpage2.jpg" </img>
+<br>
+
+<h4>Enchanted Kingdom </h4>
+<p align="center">Enchanted Kingdom is a really popular tourist spot here in the Philippines,It is an amusement park that people already know about <br>
+It has exciting fun rides that you cannot say no to it because it is really fun!, I'm browsing Tiktok and they say that visit now because they still have few visitors <Br>
+It will take you all to fun rides,you can take all rides without thinking the queue every ride, So what are you waiting for? Ride and Enjoy now! <p/>
+</center>
+
+
+<font size="5">
+<p align="left"><a href="1Travel Ideas.html" > BackToHomepage</href> </p>
+<p align="right"><a href="Travel Ideas page 3.html" >Next page...</href> </p>
+</font>
+</html>
+</body>
+
+
+//PAGE 3
+<html>
+<body background="bgbg.gif">
+<center>
+<font face="lucida handwriting" size="20" color="white"> Travel Gallery </font> <br>
+<font face="lucida handwriting" size="15" color="white"> Click where you wanted to go! </font><br>
+</center>
+
+
+<font size="20" >
+<p align="center"><a href="Travel Ideas page 4.html">Catanduanes...</href> <br> </p>
+<p align="center"><a href="Travel Ideas page 5.html">Tanay,Rizal...</href> <br> </p>
+<p align="center"><a href="Travel Ideas page 6.html">Sea Breeze Resort...</href></p>
+<p align="center"><a href="Travel Ideas page 7.html">Enchanted Kingdom...</href></p>
+</a href></font>
+
+
+<font size="5"> <p align="center">
+That's All, I hope you can decide on which place you wanted to go! Thank You! </p></font>
+<br>
+</font>
+
+
+
+<font size="5" color="white">
+<p align="left"><a href="Travel Ideas page 2.html">previous page...</href> <br> </p>
+</font>
+</html>
+<body>
+
+//PAGE 4
+<html>
+<body background="bgbg.gif">
+<center>
+<font face="lucida handwriting" size="20" color="white"> Travel Recommendations </font>
+</center>
+
+<font face="lucida handwriting" size="20" color="white"> Catanduanes- </font><br>
+
+<font size="10">
+<p align="left"><a href="https://youtu.be/VmQxD_P7e9k">Click and Watch this Short Film Now!...</href> <br> </p>
+</a href></font>
+
+<font size="6" color="white"> Catanduanes is a really great tourist spot today and if you want to be away with the city and lived within an island, Catanduanes is a perfect place! </font>
+<center>
+<img src="cat1.jpg"> </img>
+<img src="cat2.jpg"> </img>
+<img src="cat3.jpg"> </img>
+<img src="cat4.jpg"> </img>
+<img src="cat5.jpg"> </img>
+<img src="cat6.jpg"> </img>
+<img src="cat7.jpg"> </img>
+<img src="cat8.jpg"> </img>
+<img src="cat9.jpg"> </img>
+<img src="cat10.jpg"> </img>
+<img src="cat11.jpg"> </img>
+<img src="cat12.jpg"> </img>
+<img src="cat13.jpg"> </img>
+<img src="cat14.jpg"> </img>
+</center>
+<br>
+
+
+
+<font size="5">
+<p align="left"><a href="Travel Ideas page 3.html">GoBacktoChoices...</href> <br> </p>
+</font>
+</html>
+<body>
+
+
+//PAGE 5
+<html>
+<body background="bgbg.gif">
+<center>
+<font face="lucida handwriting" size="20" color="white"> Travel Recommendations </font>
+</center>
+
+<font face="lucida handwriting" size="20" color="white"> Tanay,Rizal </font><br>
+<font size="10">
+<p align="left"><a href="https://youtu.be/jhw6dMW0tGw">Click and Watch this Short Film Now!...</href> <br> </p>
+</a href></font>
+
+<font size="6" color="white"> Tanay,Rizal is now hitting the tourists nowadays! I remember few years ago that a very few tourists are visiting tanay, but now, it hit the tourists! </font>
+<center>
+<img src="tanay1.jpg"> </img>
+<img src="tanay2.jpg"> </img>
+<img src="tanay3.jpg"> </img>
+<img src="tanay4.jpg"> </img>
+<img src="tanay5.jpg"> </img>
+<img src="tanay6.jpg"> </img>
+<img src="tanay7.jpg"> </img>
+<img src="tanay8.jpg"> </img>
+<img src="tanay9.jpg"> </img>
+<img src="tanay10.jpg"> </img>
+</center>
+<br>
+
+
+
+<font size="5">
+<p align="left"><a href="Travel Ideas page 3.html">GoBacktoChoices...</href> <br> </p>
+</font>
+</html>
+<body>
+
+
+//PAGE 6
+<html>
+<body background="bgbg.gif">
+<center>
+<font face="lucida handwriting" size="20" color="white"> Travel Recommendations </font>
+</center>
+
+<font face="lucida handwriting" size="20" color="white"> Sea Breeze Resort- </font><br>
+<font size="6" color="white"> Sea Breeze Resort is already popular ever since the 2009's located at Taguig Metro,Manila, it got just renovated this 2015's and made a wave pool for its tourists to cope more visitors. </font>
+<center>
+<img src="sb1.jpg"> </img>
+<img src="sb2.jpg"> </img>
+<img src="sb3.jpg"> </img>
+<img src="sb4.jpg"> </img>
+<img src="sb5.jpg"> </img>
+<img src="sb6.jpg"> </img>
+<img src="sb7.jpg"> </img>
+<img src="sb8.jpg"> </img>
+<img src="sb9.jpg"> </img>
+<img src="sb10.jpg"> </img>
+</center>
+<br>
+
+
+
+<font size="5">
+<p align="left"><a href="Travel Ideas page 3.html">GoBacktoChoices...</href> <br> </p>
+</font>
+</html>
+<body>
+
+
+//PAGE 7
+<html>
+<body background="bgbg.gif">
+<center>
+<font face="lucida handwriting" size="20" color="white"> Travel Recommendations </font>
+</center>
+
+<font face="lucida handwriting" size="20" color="white"> Enchanted Kingdom </font><br>
+<font size="6" color="white"> Enchanted Kingdom is the number one most visited amusement park here in the Philippines, it has more enjoyable rides that both adults and kids can enjoy into! </font>
+<center>
+<img src="ek2.jpg"> </img>
+<img src="ek3.jpg"> </img>
+<img src="ek4.jpg"> </img>
+<img src="ek5.jpg"> </img>
+<img src="ek6.jpg"> </img>
+<img src="ek7.jpg"> </img>
+<img src="ek8.jpg"> </img>
+<img src="ek9.jpg"> </img>
+<img src="ek10.jpg"> </img>
+<img src="ek11.jpg"> </img>
+<img src="ek12.jpg"> </img>
+<img src="ek13.jpg"> </img>
+</center>
+<br>
+
+
+
+<font size="5">
+<p align="left"><a href="Travel Ideas page 3.html">GoBacktoChoices...</href> <br> </p>
+</font>
+</html>
+<body>
